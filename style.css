@@ -1,0 +1,8 @@
+body {
+    background-image: url("https://th.bing.com/th/id/R.c783affb2c7b9488951409fd5d81f049?rik=NylwWNpnuBBz4w&riu=http%3a%2f%2fwww.brandgradients.com%2fimg%2fbackgrounds%2fsunrise-gradient-background.png&ehk=Xs82A%2bowEsEahJUaSeskvfmhjpNEgWH2FUWEUEKJXww%3d&risl=&pid=ImgRaw");
+    text-align: center;
+}
+#text-setter {
+    width: 15%;
+    box-shadow: 5px 5px 5px white;
+}
