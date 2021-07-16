@@ -6,3 +6,10 @@ body {
     width: 15%;
     box-shadow: 5px 5px 5px white;
 }
+canvas {
+    width: 30%;
+    height: 30%;
+    border: 7px ridge white;
+    border-radius: 0px;
+    box-shadow: 5px 5px 5px white;
+}
